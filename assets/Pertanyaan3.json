@@ -1,0 +1,32 @@
+[
+    {
+        "1QuestionSprite": "Q1",
+        "2CorrectAnswer": "J3",
+        "3WrongAnswer": [
+            "J1",
+            "J2",
+            "J3",
+            "J4"
+        ]
+    },
+    {
+        "1QuestionSprite": "Q2",
+        "2CorrectAnswer": "J7",
+        "3WrongAnswer": [
+            "J5",
+            "J6",
+            "J7",
+            "J8"
+        ]
+    },
+    {
+        "1QuestionSprite": "Q3",
+        "2CorrectAnswer": "J12",
+        "3WrongAnswer": [
+            "J9",
+            "J10",
+            "J11",
+            "J12"
+        ]
+    }
+]
